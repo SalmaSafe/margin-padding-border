@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+    color: azure;
+    font-size: 80px;
+    text-align: center;
+}
+h1{
+    font-size: large;
+    color: rgb(0, 0, 0);
+}
+p{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    align-items: center;
+}
+.Box{
+    border:solid 3px black ;
+    border-width: 100px; 
+    padding: 20px 10px 5px 10px;
+    margin: 15px 5px 15px 20px ;
+    outline:solid 6px rgb(165, 67, 67);
+    outline:solid 9px rgb(0, 27, 116);
+
+    
+
+}
